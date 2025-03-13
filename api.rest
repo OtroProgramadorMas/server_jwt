@@ -3,7 +3,7 @@ Content-Type: application/json
 
 {
     "username":"julian@gonzalez.com",
-    "password":"123"
+    "password":"123456"
 }
 ###
 GET http://localhost:8000/usuarios
@@ -11,4 +11,4 @@ GET http://localhost:8000/usuarios
 ###
 GET http://localhost:8000/usuarios
 Content-Type: application/json
-Authorization: Julian eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySUQiOiJqdWxpYW5AZ29uemFsZXouY29tIiwiZXhwIjoxNzQxODIxOTgwfQ.99cfspyCgfro66h1T9Yo329cbUbLiuckM9mvFstSpxM
+Authorization: Julian eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySUQiOiJqdWxpYW5AZ29uemFsZXouY29tIiwiZXhwIjoxNzQxODk0NzAwfQ.J7hb6nhCiiSOhe4t_6mG0ePt9Ok7uD5fl0IbUW3V9zw

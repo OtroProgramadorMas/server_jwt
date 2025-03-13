@@ -5,7 +5,7 @@ export const iniciarSesion = async (ctx: any) => {
   const { response, request } = ctx;
   const { username, password } = await request.body.json();
 
-  if ( username == "julian@gonzalez.com" && password == "123") {
+  if ( username == "julian@gonzalez.com" && password == "123456") {
     const token = await generarToken("julian@gonzalez.com");
 
     console.log(token)
