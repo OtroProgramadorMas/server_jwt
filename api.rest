@@ -8,9 +8,9 @@ Content-Type: application/json
 ###
 GET http://localhost:8000/vehiculos
 Content-Type: application/json
-Authorization: Julian eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySUQiOiJqdWxpYW5AZ29uemFsZXouY29tIiwiZXhwIjoxNzQxOTA4MDM5fQ.D6GDY-IT-dT3tCJDiZJpYxI2h4ySbRGCJP07KUoHego
-
+Authorization: Julian eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySUQiOiJqdWxpYW5AZ29uemFsZXouY29tIiwiZXhwIjoxNzQxOTkxNDYxfQ.EhmAlG3DwGcnebRkOShflbi0bSL65iDXwlg_cfnHBXM
 ###
 GET http://localhost:8000/usuarios
 Content-Type: application/json
-Authorization: Julian eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySUQiOiJqdWxpYW5AZ29uemFsZXouY29tIiwiZXhwIjoxNzQxOTA4MDM5fQ.D6GDY-IT-dT3tCJDiZJpYxI2h4ySbRGCJP07KUoHego
+Authorization: Julian 
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySUQiOiJqdWxpYW5AZ29uemFsZXouY29tIiwiZXhwIjoxNzQxOTc2ODQxfQ.9VcGwTwuNoWjT4BFfhdWUB2mW_7JtA4Wa1XzFI5VrNE
