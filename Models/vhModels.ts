@@ -1,7 +1,7 @@
 import { Conexion }from "../Models/conexion.ts";
 
 export interface Vehiculo {
-    id: number;
+    id: number | null;
     marca: string;
     modelo: string;
     tipo: string;
